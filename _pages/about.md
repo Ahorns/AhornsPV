@@ -25,8 +25,9 @@ You'll find my curriculum vitae uploaded here: [Song Menglin's Curriculum Vitae]
 
 
 # 🔥 News
-- *2023.10*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2023.09*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.10*: &nbsp;🎉🎉 Obtained the "Entrance Scholarship Prize" by School of Engineering in HKUST (This ratio is below 10%)
+- *2023.09*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+- *2023.08*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 
 # 📝 Publications 
 

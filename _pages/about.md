@@ -19,7 +19,7 @@ redirect_from:
 
 I am a Master’s student in Integrated Circuit Design at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/). My research interest includes design automation, machine learning and advanced algorithm for FPGA placement and routing. I am fortunate to be advised by [Prof. Zhang Wei](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=wei-zhang-eeweiz) of [Reconfigurable Computing Systems Lab](https://eeweiz.home.ece.ust.hk/#) in HKUST. 
 
-You'll find my curriculum vitae uploaded here: [Song Menglin's Curriculum Vitae](../assets/CV/Curriculum_Vitae.pdf).
+You'll find my curriculum vitae uploaded here: [Song Menglin's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
 
 # 🔥 News

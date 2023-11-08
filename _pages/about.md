@@ -17,14 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Master’s student in Integrated Circuit Design at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/). My research interest includes design automation, machine learning and advanced algorithm for FPGA placement and routing. I am fortunate to be advised by [Prof. Zhang Wei](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=wei-zhang-eeweiz) of [Reconfigurable Computing Systems Lab](https://eeweiz.home.ece.ust.hk/#) in HKUST. 
+I am a Master’s student in Integrated Circuit Design at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/). I am fortunate to be advised by [Prof. Zhang Wei](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=wei-zhang-eeweiz) of [Reconfigurable Computing Systems Lab](https://eeweiz.home.ece.ust.hk/#) in HKUST. 
+My research interest includes design automation, machine learning and advanced algorithm for FPGA placement and routing. 
 
 You'll find my curriculum vitae uploaded here: [Song Menglin's Curriculum Vitae](../assets/Song Menglin CV.pdf).
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.10*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.09*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
 

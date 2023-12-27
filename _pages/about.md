@@ -25,37 +25,43 @@ You'll find my curriculum vitae uploaded here: [Song Menglin's Curriculum Vitae]
 
 
 # 🔥 News
-- *2023.10*: &nbsp;🎉🎉 Obtained the "Entrance Scholarship Prize" by School of Engineering in HKUST (This ratio is below 10%)
-- *2023.09*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- *2023.08*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+- *2023.12*: &nbsp;🎉 Winning the third prize in the Integrated Circuit EDA Elite Challenge at the national level
+- *2023.10*: &nbsp;🎉🎉 Obtained the "**Entrance Scholarship Prize**" by School of Engineering in HKUST (This ratio is below 10%)
+- *2023.09*: &nbsp;🎉 Started the MSc study in **HKUST**🏫
+- *2023.08*: &nbsp;🎉 Successfully submitted the thesis entitled "A Novel Passive Intermodulation Model of Coaxial Cable Assemblies with Distributed and Point-source Nonlinearities" in the **Transactions on Microwave Theory and Techniques**
+- *2023.07*: &nbsp;🎉 Participated in the Advanced Integrated Circuit EDA Summer Conference conducted by Beijing University.
 
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[High-precision Mathematical Modelling of Passive Intermodulation in Connectors](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**M. Song**, Q. Jin
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [High-precision Mathematical Modelling of Passive Intermodulation in Connectors, Electronics Letters](https://github.com), **M. Song**, Q. Jin, **Electronics Letters**(SCI Journal) 2022
+- [A Novel Passive Intermodulation Model of Coaxial Cable Assemblies with Distributed and Point-source Nonlinearities](https://github.com), R. Liu, M. Song, Q. Jin, **Transactions on Microwave Theory and Techniques**(SCI Journal)
+- Patent:
+- Title: A fitting method for a passive intermodulation (PIM) mathematical model | Patent Number: 023108822605
+
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.10* Entrance Scholarship in HKUST (Less than 10% in the major)
+- *2022.06* Best Graduation Thesis (The only 1 in the major, 2% in the Bachelor’s school)
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.09 - 2024.06 (now)*, The Hong Kong University of Science and Technology; Master of Science in IC Design Engineering
+- *2018.09 - 2022.06*, Southwest Jiaotong University; Bachelor of Engineering in Electronic Science and Technology
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Professional Experience
+- *2022.07 - 2023.05*, [Texas Instruments](https://github.com/),Analog Chip Product Engineer  Chengdu, China/ Dallas, USA/KL, Malaysia.

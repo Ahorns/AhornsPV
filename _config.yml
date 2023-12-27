@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Song Menglin"
-  avatar           : "images/Bear Doc.PNG"
+  avatar           : "images/Bear Doc.png"
   bio              : "The Hong Kong University of Science and Technology"
   location         : "Hong Kong, China"
   employer         :

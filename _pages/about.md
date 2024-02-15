@@ -21,7 +21,7 @@ I am a Master’s student in Integrated Circuit Design at [The Hong Kong Univers
 
 My research interest includes Photonics System Design, Machine Learning and advanced Algorithm for Optimal Design. 
 
-You'll find my curriculum vitae uploaded here: [Song Menglin's PS](../assets/Song Menglin CV.pdf).
+You'll find my curriculum vitae uploaded here: [Song Menglin's CV](../assets/Song Menglin CV.pdf).
 
 My Personal Statement here: [Song Menglin's PS](../assets/PS Song Menglin.pdf).
 

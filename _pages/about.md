@@ -21,13 +21,13 @@ I am a Master’s student in Integrated Circuit Design at [The Hong Kong Univers
 
 My research interest includes Photonics System Design, Machine Learning and advanced Algorithm for Optimal Design. 
 
-You'll find my curriculum vitae uploaded here: <a href="docs/Song Menglin CV.pdf">Song Menglin's CV</a>.
+You'll find my curriculum vitae uploaded here: <a href="../docs/Song Menglin CV.pdf">Song Menglin's CV</a>.
 
-My Personal Statement here: <a href="docs/PS Song Menglin.pdf">Song Menglin's PS</a>.
+My Personal Statement here: <a href="../docs/PS Song Menglin.pdf">Song Menglin's PS</a>.
 
-You'll find my curriculum vitae uploaded here: [Song Menglin's PS](../assets/PS Song Menglin.pdf).
+You'll find my curriculum vitae uploaded here: [Song Menglin's PS](../assets/Song Menglin CV.pdf).
 
-My Personal Statement here: [Song Menglin's PS](docs/PS Song Menglin.pdf).为什么无法引用
+My Personal Statement here: [Song Menglin's PS](../docs/PS Song Menglin.pdf).
 
 # 🔥 News
 - *2023.12*: &nbsp;🎉 Winning the third prize in the Integrated Circuit EDA Elite Challenge at the national level

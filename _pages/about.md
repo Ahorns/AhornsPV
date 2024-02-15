@@ -25,7 +25,9 @@ You'll find my curriculum vitae uploaded here: <a href="docs/Song Menglin CV.pdf
 
 My Personal Statement here: <a href="docs/PS Song Menglin.pdf">Song Menglin's PS</a>.
 
+You'll find my curriculum vitae uploaded here: [Song Menglin's PS](../assets/PS Song Menglin.pdf).
 
+My Personal Statement here: [Song Menglin's PS](docs/PS Song Menglin.pdf).为什么无法引用
 
 # 🔥 News
 - *2023.12*: &nbsp;🎉 Winning the third prize in the Integrated Circuit EDA Elite Challenge at the national level

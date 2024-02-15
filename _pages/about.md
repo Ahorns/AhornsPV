@@ -21,8 +21,9 @@ I am a Master’s student in Integrated Circuit Design at [The Hong Kong Univers
 
 My research interest includes Photonics System Design, Machine Learning and advanced Algorithm for Optimal Design. 
 
-You'll find my curriculum vitae uploaded here: [Song Menglin's PS](docs/Song Menglin CV.pdf).
-My Personal Statement here: [Song Menglin's PS](docs/PS Song Menglin.pdf).
+You'll find my curriculum vitae uploaded here: <a href="docs/Song Menglin CV.pdf">Song Menglin's CV</a>.
+
+My Personal Statement here: <a href="docs/PS Song Menglin.pdf">Song Menglin's PS</a>.
 
 
 
@@ -41,10 +42,6 @@ My Personal Statement here: [Song Menglin's PS](docs/PS Song Menglin.pdf).
 
 **M. Song**, Q. Jin
 
-</strong>
-
-</div>
-</div>
 
 - [High-precision Mathematical Modelling of Passive Intermodulation in Connectors, Electronics Letters](https://github.com), **M. Song**, Q. Jin, **Electronics Letters**(SCI Journal) 2022
 - [A Novel Passive Intermodulation Model of Coaxial Cable Assemblies with Distributed and Point-source Nonlinearities](https://github.com), R. Liu, M. Song, Q. Jin, **Transactions on Microwave Theory and Techniques**(SCI Journal)

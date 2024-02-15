@@ -21,7 +21,8 @@ I am a Master’s student in Integrated Circuit Design at [The Hong Kong Univers
 
 My research interest includes Design Automation, Machine Learning and advanced Algorithm for Placement and Routing. 
 
-You'll find my curriculum vitae uploaded here: [Song Menglin's Curriculum Vitae](../assets/Song Menglin CV.pdf).
+You'll find my curriculum vitae uploaded here: [Song Menglin's PS](../docs/PS Song Menglin.pdf).
+<a href="../docs/PS Song Menglin.pdf.pdf">pdf</a>
 
 
 # 🔥 News

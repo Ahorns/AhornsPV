@@ -17,12 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Master’s student in Integrated Circuit Design at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/). I am fortunate to be advised by [Prof. Zhang Wei](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=wei-zhang-eeweiz) of [Reconfigurable Computing Systems Lab](https://eeweiz.home.ece.ust.hk/#) in HKUST. 
+I am a Master’s student in Integrated Circuit Design at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/). 
 
-My research interest includes Design Automation, Machine Learning and advanced Algorithm for Placement and Routing. 
+My research interest includes Photonics System Design, Machine Learning and advanced Algorithm for Optimal Design. 
 
-You'll find my curriculum vitae uploaded here: [Song Menglin's PS](../docs/PS Song Menglin.pdf).
-<a href="../docs/PS Song Menglin.pdf.pdf">pdf</a>
+You'll find my curriculum vitae uploaded here: [Song Menglin's PS](docs/Song Menglin CV.pdf).
+My Personal Statement here: [Song Menglin's PS](docs/PS Song Menglin.pdf).
+
 
 
 # 🔥 News
@@ -34,14 +35,13 @@ You'll find my curriculum vitae uploaded here: [Song Menglin's PS](../docs/PS So
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+
 
 [High-precision Mathematical Modelling of Passive Intermodulation in Connectors](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
 **M. Song**, Q. Jin
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</strong>
 
 </div>
 </div>

@@ -27,7 +27,7 @@ My Personal Statement here: [Song Menglin's PS](../assets/PS Song Menglin.pdf).
 
 # 🔥 News
 - *2024.7*: &nbsp;🎉[Sharing Experiences](https://seng.hkust.edu.hk/academics/taught-postgraduate/msc-ic/student-sharing) as an Outstanding Graduate of HKUST in ICDE
-- *2024.4*: &nbsp;🎉🎉🎉 Received an offer for CDT PhD Program Connected Electronic and Photonic Systems from **the University of Cambridge and UCL**
+- *2024.4*: &nbsp;🎉🎉🎉 Receiving offer of PhD Program from [CEPS](https://www.ceps-cdt.org/) from **the University of Cambridge and UCL**
 - *2024.2*: &nbsp;🎉 "A Novel Passive Intermodulation Model of Coaxial Cable Assemblies with Distributed and Point-source Nonlinearities" successfully accepted by **IEEE TRANSACTIONS ON ELECTROMAGNETIC COMPATIBILITY**
 - *2023.12*: &nbsp;🎉 Winning the third prize in the Integrated Circuit EDA Elite Challenge at the national level
 - *2023.10*: &nbsp;🎉🎉 Obtained the "**Entrance Scholarship Prize**" by School of Engineering in HKUST (This ratio is below 10%)

@@ -26,23 +26,26 @@ You'll find my curriculum vitae uploaded here: [Song Menglin's CV](../assets/Son
 My Personal Statement here: [Song Menglin's PS](../assets/PS Song Menglin.pdf).
 
 # 🔥 News
+- *2024.7*: &nbsp;🎉[Sharing Experiences](https://seng.hkust.edu.hk/academics/taught-postgraduate/msc-ic/student-sharing) as an Outstanding Graduate of HKUST in ICDE
+- *2024.4*: &nbsp;🎉🎉🎉 Received an offer for CDT PhD Program Connected Electronic and Photonic Systems from **the University of Cambridge and UCL**
+- *2024.2*: &nbsp;🎉 "A Novel Passive Intermodulation Model of Coaxial Cable Assemblies with Distributed and Point-source Nonlinearities" successfully accepted by **IEEE TRANSACTIONS ON ELECTROMAGNETIC COMPATIBILITY**
 - *2023.12*: &nbsp;🎉 Winning the third prize in the Integrated Circuit EDA Elite Challenge at the national level
 - *2023.10*: &nbsp;🎉🎉 Obtained the "**Entrance Scholarship Prize**" by School of Engineering in HKUST (This ratio is below 10%)
 - *2023.09*: &nbsp;🎉 Started the MSc study in **HKUST**🏫
-- *2023.08*: &nbsp;🎉 Successfully submitted the thesis entitled "A Novel Passive Intermodulation Model of Coaxial Cable Assemblies with Distributed and Point-source Nonlinearities" in the **Transactions on Microwave Theory and Techniques**
+- *2023.08*: &nbsp;🎉 Successfully submitted the thesis entitled "A Novel Passive Intermodulation Model of Coaxial Cable Assemblies with Distributed and Point-source Nonlinearities" in the **IEEE TRANSACTIONS ON ELECTROMAGNETIC COMPATIBILITY**
 - *2023.07*: &nbsp;🎉 Participated in the Advanced Integrated Circuit EDA Summer Conference conducted by Beijing University.
 
 # 📝 Publications 
 
 
 
-[High-precision Mathematical Modelling of Passive Intermodulation in Connectors](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[High-precision Mathematical Modelling of Passive Intermodulation in Connectors](https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/ell2.12539)
 
 **M. Song**, Q. Jin
 
 
-- [High-precision Mathematical Modelling of Passive Intermodulation in Connectors, Electronics Letters](https://github.com), **M. Song**, Q. Jin, **Electronics Letters**(SCI Journal) 2022
-- [A Novel Passive Intermodulation Model of Coaxial Cable Assemblies with Distributed and Point-source Nonlinearities](https://github.com), R. Liu, M. Song, Q. Jin, **Transactions on Microwave Theory and Techniques**(SCI Journal)
+- [High-precision Mathematical Modelling of Passive Intermodulation in Connectors, Electronics Letters](https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/ell2.12539), **M. Song**, Q. Jin, **Electronics Letters**(SCI Journal) 2022
+- [A Novel Passive Intermodulation Model of Coaxial Cable Assemblies with Distributed and Point-source Nonlinearities](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10596964), R. Liu, Q. Jin, M. Song, et al. **Transactions on Microwave Theory and Techniques**(SCI Journal)
 - Patent:
 - Title: A fitting method for a passive intermodulation (PIM) mathematical model | Patent Number: 023108822605
 

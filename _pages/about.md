@@ -55,7 +55,8 @@ My Personal Statement here: [Song Menglin's PS](../assets/PS Song Menglin.pdf).
 - *2022.06* Best Graduation Thesis (The only 1 in the major, 2% in the Bachelor’s school)
 
 # 📖 Educations
-- *2023.09 - 2024.06 (now)*, The Hong Kong University of Science and Technology; Master of Science in IC Design Engineering
+- *2024.09 - 2028.06 *, University of Cambridge & UCL; MRes+PhD of Research in Connected Electronic and Photonic Systems
+- *2023.09 - 2024.06 *, The Hong Kong University of Science and Technology; Master of Science in IC Design Engineering
 - *2018.09 - 2022.06*, Southwest Jiaotong University; Bachelor of Engineering in Electronic Science and Technology
 
 # 💬 Invited Talks

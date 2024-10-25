@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Master’s student in Integrated Circuit Design at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/). 
+I am a PhD program in the University of Cambridge and UCL, I obtained Master’s degree in Integrated Circuit Design at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/). 
 
 My research interest includes Photonics System Design, Machine Learning and advanced Algorithm for Optimal Design. 
 
